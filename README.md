@@ -2,7 +2,7 @@
 Here I am going to use ARCore with Flutter 
 
 Augmented Reality with Flutter:
-  Here I managed to show Earth and moon in camera using ARcore on flutter
+  Here Iam showing Earth and moon in camera using ARcore on flutter
   
 
 Refernces:
