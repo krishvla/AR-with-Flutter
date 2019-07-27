@@ -6,5 +6,7 @@ Augmented Reality with Flutter:
   
 
 Refernces:
-https://medium.com/@difrancescogianmarco/arcore-flutter-plugin-configurations-3ee53f2dc749
-https://github.com/giandifra/arcore_flutter_plugin
+
+
+1. https://medium.com/@difrancescogianmarco/arcore-flutter-plugin-configurations-3ee53f2dc749
+2. https://github.com/giandifra/arcore_flutter_plugin
